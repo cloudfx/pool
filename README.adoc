@@ -1,0 +1,6 @@
+= Public Documents Repository of CloudFx Community
+
+image::cloudfx-community.png[CloudFx Community]
+
+
+
